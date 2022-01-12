@@ -126,14 +126,17 @@ else:
 ```
 ## Sample Input and Output
 ## Input
-![input](SAMIP.JPG)
+![SAMIP](https://user-images.githubusercontent.com/93901857/149079111-5c865518-44c8-4a2c-ad4b-d011d998626e.jpg)
 ## Output 
 ## i)Linear search method.
-![output1](OP.JPG)
+![OP1](https://user-images.githubusercontent.com/93901857/149079256-549724e3-453f-480c-afd0-3b271f3a52d3.jpg)
+
 ## ii)Binary Search (Iterative Method).
-![output2](OP.JPG)
+![OP2](https://user-images.githubusercontent.com/93901857/149079256-549724e3-453f-480c-afd0-3b271f3a52d3.jpg)
+
 ## iii)Binary Search (Recursive Method).
-![output3](OP.JPG)
+![OP3](https://user-images.githubusercontent.com/93901857/149079256-549724e3-453f-480c-afd0-3b271f3a52d3.jpg)
+
 
 
 
